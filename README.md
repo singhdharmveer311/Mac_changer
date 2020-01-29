@@ -1,2 +1,5 @@
-# Mac_changer
-Simple Python Program to change mac address in linux
+# mac-changer
+A simple python script to change mac address easily
+
+# how to run the script : 
+type in terminal : python mac_changer.py --help
